@@ -1,0 +1,13 @@
+total 17
+drwxr-xr-x 1 lzrka 197609   0 Nov 10 16:18 ./
+drwxr-xr-x 1 lzrka 197609   0 Nov 10 15:11 ../
+drwxr-xr-x 1 lzrka 197609   0 Nov 10 16:14 .git/
+-rw-r--r-- 1 lzrka 197609 143 Nov 10 14:46 about.html
+drwxr-xr-x 1 lzrka 197609   0 Nov 10 15:12 css/
+drwxr-xr-x 1 lzrka 197609   0 Nov 10 15:12 images/
+-rw-r--r-- 1 lzrka 197609 143 Nov 10 14:34 index.html
+-rw-r--r-- 1 lzrka 197609 233 Nov 10 14:34 README.md
+-rw-r--r-- 1 lzrka 197609 145 Nov 10 16:11 tasks.txt
+drwxr-xr-x 1 lzrka 197609   0 Nov 10 14:49 temp_images/
+-rw-r--r-- 1 lzrka 197609  15 Nov 10 16:16 valami.txt
+-rw-r--r-- 1 lzrka 197609   0 Nov 10 16:21 valami2.txt
